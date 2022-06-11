@@ -1,5 +1,5 @@
 dailyphongve
-trang chủ phòng vé nơi mọi người xem các bộ phim hiện hành sắp chiếu
+trang chủ phòng vé nơi mọi người xem thông tin các bộ phim hiện hành sắp chiếu
 ![image](https://user-images.githubusercontent.com/72543287/173166774-9b69372e-a3dc-427f-b46b-001bd8f6ca04.png)
 khách hàng lựa chọn phim theo thể 
 ![image](https://user-images.githubusercontent.com/72543287/173166805-961c553d-c20c-4427-b31c-8a3a25f10975.png)
